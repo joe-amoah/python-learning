@@ -1,4 +1,4 @@
-# Python program that allows the user to enter the latitude and longitude of two points on the Earth in degrees.
+# Python program that allows the user to enter the latitude and longitude of two points on the Earth in degrees
 from math import radians, cos, sin, asin, sqrt
 def distance (lat1, lat2, lon1, lon2):
 
