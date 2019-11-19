@@ -1,4 +1,4 @@
-# A Python program that read a number of cent from the user as an integer
+# A Python program that read a number of cent from the user as an integer.
 penny = 1
 nickel = 5
 dime = 10
