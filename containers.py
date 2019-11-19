@@ -1,4 +1,4 @@
-# A Python program tha compute and displaying the refund and returning containers
+# A Python program tha compute and displaying the refund and returning containers.
 less = 0.10
 more = 0.25
 less_cans = input("How many less containers did you recycle?")
