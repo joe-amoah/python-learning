@@ -1,4 +1,4 @@
-# Python program that reads a number of feet and inches from the user
+# Python program that reads a number of feet and inches from the user.
 
 cm = int(input("Enter the height in centimetres:"))
 inches = 2.54 * cm
