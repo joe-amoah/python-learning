@@ -1,4 +1,4 @@
-# Python program that reads two integers, a and b, from the user
+# Python program that reads two integers, a and b, from the user.
 import math
 a = int(input("Enter the first number:"))
 b = int(input("Enter the second number:"))
